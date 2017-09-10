@@ -1,5 +1,1 @@
-# POO
-
-Integrantes:
-* David Felipe Palacio López
-# POO
+# Banda
